@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="LibraryFolder/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/LICENSE"/>
+	<classpathentry kind="lib" path="LibraryFolder/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/NOTICE"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="LibraryFolder/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
